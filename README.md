@@ -20,7 +20,7 @@ https://github.com/kamranahmedse/developer-roadmap
 
 ### 1. Programming Basic
 
-#### 1) Java 
+#### 1) Java
 
 - JDK 
         
@@ -51,6 +51,8 @@ https://github.com/kamranahmedse/developer-roadmap
 - F.I.R.S.T
 
 - TDD
+
+---
 
 ### 2. Web Basic
 
@@ -85,7 +87,97 @@ https://github.com/kamranahmedse/developer-roadmap
 #### 4) Project
 
 - ATDD
-                                               
+
+- RESTful APIs
+
+- Documentation
+
+- Logging
+
+- Authentication
+
+- Authorization
+
+- Deployment
+
+---
+
+### 3. Getting Deeper
+
+#### 1) Java
+
+#### 2) Spring Framework
+
+- Spring MVC
+
+- Spring DI
+
+- Spring AOP
+
+#### 3) Refactoring Legacy Code
+
+#### 4) Design
+
+- GOF Design Patterns
+
+- DDD
+
+- Clean Architecture
+
+#### 5) Common Topics
+
+- Database
+
+- Network
+
+- JVM
+
+---
+
+### 4. Project
+
+#### 1) Software Development Process
+
+- Agile
+
+- Scrum
+
+- Lean
+
+- Kanban
+
+- Schedule Estimation
+
+- CI / CD
+
+#### 2) Common Topics
+
+- Authentication
+
+- Fault Tolerance
+
+- Caching
+
+- Security
+
+#### 3) More Web Architecture Components
+
+- Docker Container
+
+- WebSocket
+
+- NoSQL
+
+- Elasticsearch
+
+- Kafka
+
+- Redis
+
+- Spring Batch
+
+- Spring Security
+
 
 ## Mockup Files
 The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/Balsamiq-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it.
