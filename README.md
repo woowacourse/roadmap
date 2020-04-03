@@ -23,21 +23,8 @@ https://github.com/kamranahmedse/developer-roadmap
 #### 1) Java 
 
 - JDK 
-    - Java8 
-        - Lambda
-        - Stream API
-        - Optional
-    - JCF
-        - List
-        - Set
-        - Map
         
 - Tools
-    - Build 
-        - Gradle
-        - Maven        
-    - IDE
-        - IntelliJ
 
 #### 2) Git
 
@@ -54,9 +41,6 @@ https://github.com/kamranahmedse/developer-roadmap
 - Refactoring
 
 - Object-Oriented
-    - S.O.L.I.D
-    - D.R.Y
-    - 객체지향 생활체조
     
 #### 5) Testing
 
@@ -81,43 +65,27 @@ https://github.com/kamranahmedse/developer-roadmap
 #### 2) Common Topics
 
 - Basic Frontend Knowledge
-    - HTML
-    - CSS
-    - JavaScript
     
 - OS
-    - How OSs work in General
-    - Process & Threads
-    - Basic Terminal Command
     
 - Network
-    - OSI 7 Layer
-    - Blocking/Non-Blocking, Sync/Async
 
 #### 3) Web Architecture Components
 
 - Web Server
-    - Apache
-    - Nginx
-    - NodeJS
-    - Tomcat
 
 - Proxy
-    - Forward Proxy
-    - Reverse Proxy
     
 - Load Balancer
 
 - CDN
 
 - Database
-    - MySQL
     
 #### 4) Project
 
 - ATDD
-
--                                                     
+                                               
 
 ## Mockup Files
 The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/Balsamiq-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it.
