@@ -22,7 +22,7 @@ https://github.com/kamranahmedse/developer-roadmap
 
 #### 1) Java
 
-- [JDK](./docs/1_programming_basic/jdk.md)
+- [JDK](./docs/1_programming_basic/java/jdk.md)
         
 - Tools
 

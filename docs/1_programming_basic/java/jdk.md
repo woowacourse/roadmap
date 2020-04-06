@@ -26,7 +26,7 @@
 ---
         
 #### (2) HashMap vs ConcurrentHashMap
-- 두 List간의 차이점은?
+- 두 Map간의 차이점은?
 
 ##### - 관련 자료
 - [jdm.kr](https://jdm.kr/blog/197)
