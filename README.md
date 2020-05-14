@@ -190,7 +190,6 @@ https://github.com/kamranahmedse/developer-roadmap
 - [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 
-
 ## Mockup Files
 The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/Balsamiq-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it.
 
