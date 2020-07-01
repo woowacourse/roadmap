@@ -26,11 +26,13 @@
 
 - Documentation
 
+- [Log](common_topics/logback.md)
+
 #### 3) Web Architecture Components
 
 - Web Server
 
-- Proxy
+- [Proxy](./web_architecture_compoents/proxy.md)
     
 - Load Balancer
 
