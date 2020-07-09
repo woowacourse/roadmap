@@ -1460,7 +1460,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Event Storming"
                     }
@@ -1478,7 +1478,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "전략적 설계 "
                     }
@@ -1496,7 +1496,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "전술적 설계 "
                     }
@@ -1514,7 +1514,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Event Sourcing"
                     }
@@ -1532,7 +1532,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "CQRS"
                     }
@@ -3446,7 +3446,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "JCF"
                     }
@@ -3464,7 +3464,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "List"
                     }
@@ -3482,7 +3482,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Set"
                     }
@@ -3500,7 +3500,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Map"
                     }
@@ -3572,7 +3572,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Optional"
                     }
@@ -4183,7 +4183,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "TDD"
                     }
@@ -4533,7 +4533,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "Basic Frontend Knowledge"
                     }
@@ -4581,7 +4581,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "HTML"
                     }
@@ -4599,7 +4599,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "CSS"
                     }
@@ -4617,7 +4617,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "JavaScript"
                     }
@@ -4726,7 +4726,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "OS"
                     }
@@ -4744,7 +4744,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "How OSs work in General"
                     }
@@ -4762,7 +4762,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Process & Threads"
                     }
@@ -4779,7 +4779,7 @@
                     "y": "1395",
                     "properties": {
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Basic Terminal Command"
                     }
@@ -4795,8 +4795,8 @@
                     "x": "144",
                     "y": "1419",
                     "properties": {
-                        "borderColor": "16770457",
-                        "color": "16770457",
+                        "borderColor": "16776960",
+                        "color": "16776960",
                         "size": "12",
                         "text": "grep, awk, sed, lsof, curl, wget,\ntail, head, less, find, ssh, kill"
                     }
@@ -4973,7 +4973,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Web Server"
                     }
@@ -5402,7 +5402,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "ATDD"
                     }
@@ -5438,7 +5438,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Documentation"
                     }
@@ -5492,7 +5492,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Authorization"
                     }
@@ -5738,7 +5738,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Spring REST Docs"
                     }
@@ -5843,7 +5843,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Generic"
                     }
@@ -5861,7 +5861,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Varargs"
                     }
@@ -6069,7 +6069,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "Refactoring Legacy Code"
                     }
@@ -6194,7 +6194,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "DDD"
                     }
@@ -6240,7 +6240,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Ubiquitous Language"
                     }
@@ -6294,7 +6294,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "JPA"
                     }
@@ -6348,7 +6348,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "Index"
                     }
@@ -6366,7 +6366,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "Execution plan"
                     }
@@ -6539,7 +6539,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "Header"
                     }
@@ -6557,7 +6557,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "Caching"
                     }
@@ -6575,7 +6575,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "Optimization"
                     }
@@ -6629,7 +6629,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "JVM"
                     }
@@ -6710,7 +6710,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Clean Architecture"
                     }
@@ -6756,7 +6756,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Agile"
                     }
@@ -6774,7 +6774,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Scrum"
                     }
@@ -6828,7 +6828,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Schedule Estimation"
                     }
@@ -6864,7 +6864,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Planning Poker"
                     }
@@ -6882,7 +6882,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "16770457",
                         "size": "16",
                         "text": "CI / CD"
                     }
@@ -6900,7 +6900,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Software Quality Control"
                     }
@@ -6948,7 +6948,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Authentication"
                     }
@@ -6984,7 +6984,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Basic Authentication"
                     }
@@ -7056,7 +7056,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "SPOF"
                     }
@@ -7074,7 +7074,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Horizontal vs Vertical Scaling"
                     }
@@ -7110,7 +7110,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "Security"
                     }
@@ -7146,7 +7146,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16770457",
+                        "color": "16776960",
                         "size": "16",
                         "text": "TLS"
                     }
@@ -7411,7 +7411,7 @@
                     "properties": {
                         "align": "center",
                         "bold": "true",
-                        "color": "16776960",
+                        "color": "14540253",
                         "size": "16",
                         "text": "Docker Container"
                     }
