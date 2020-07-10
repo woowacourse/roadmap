@@ -11,10 +11,10 @@ https://github.com/kamranahmedse/developer-roadmap
 - [홍보기사](https://ppss.kr/archives/201479)
 
 ## Introduction
-![](./Images/intro_roadmap_v1.2.png)
+![](./Images/intro_roadmap_v1.2.1.png)
 
 ## Backend Roadmap
-![](./Images/backend_roadmap_v1.2.1.png)
+![](./Images/backend_roadmap_v1.2.2.png)
 
 <br>
 

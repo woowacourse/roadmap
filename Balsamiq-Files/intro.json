@@ -36,14 +36,14 @@
           "typeID": "Label",
           "zOrder": "1",
           "w": "482",
-          "measuredW": "482",
+          "measuredW": "460",
           "measuredH": "40",
           "x": "402",
           "y": "74",
           "properties": {
             "bold": "true",
             "size": "32",
-            "text": "Woowabros Techcourse in 2020"
+            "text": "WoowahanTechcourse in 2020"
           }
         },
         {
